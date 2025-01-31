@@ -1,3 +1,4 @@
+https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg
 # HackerRank My Solutions  
 
 This repository contains my solutions to HackerRank problems.  
