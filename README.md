@@ -1,5 +1,4 @@
-![images](https://github.com/user-attachments/assets/138e1b9b-25be-4b68-b1b7-3a4841ae2e50)
-
+![HackerRank_logo](https://github.com/user-attachments/assets/182c261c-b15b-4b21-b185-f6d75ddb206e)
 # HackerRank My Solutions  
 
 This repository contains my solutions to HackerRank problems.  
